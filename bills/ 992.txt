@@ -1,0 +1,26 @@
+		***Bienvenu Client***
+
+  N0_Facture: 992
+  Nom Client: tchobwe
+  Telephone N0: 54852255885
+=========================================================
+  Produit			Quantite			Prix
+=========================================================
+  Savon			4			80 $
+  Cream Cheveux			1			60 $
+  Champagne			2			20 $
+  Riz			1			25 $
+  Haricot			1			12 $
+  Sucre			1			50 $
+  Sardine			5			75 $
+  Pepsi			2			10 $
+  Sprite			3			9 $
+---------------------------------------------------------
+
+    Cosmetics Tax						80.0 $
+    Nourriture Tax						19.439999999999998 $
+    Biere Tax						15.200000000000001 $
+
+  TOTAL BILL: 						341 $
+---------------------------------------------------------
+

@@ -1,0 +1,27 @@
+		***Bienvenu Client***
+
+  N0_Facture: 950
+  Nom Client: diguina
+  Telephone N0: 074532221
+=========================================================
+  Produit			Quantite			Prix
+=========================================================
+  Savon			4			80 $
+  Cream Cheveux			1			60 $
+  Champagne			1			10 $
+  Parfum			2			160 $
+  Riz			1			25 $
+  Haricot			1			12 $
+  Sucre			2			100 $
+  Sardine			10			150 $
+  Pepsi			5			25 $
+  Sprite			2			6 $
+---------------------------------------------------------
+
+    Cosmetics Tax						155.0 $
+    Nourriture Tax						34.44 $
+    Biere Tax						24.8 $
+
+  TOTAL BILL: 						628 $
+---------------------------------------------------------
+
